@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.dcm4che</groupId>
+  <artifactId>dcm4che-camel</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170614075535</lastUpdated>
+  </versioning>
+</metadata>
